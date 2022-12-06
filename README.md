@@ -7,4 +7,5 @@ You Will Need:
 - [Pygame Version For Your Computer And The Python Version You Choose To Use](https://www.pygame.org/wiki/GettingStarted)
 
 Adding Or Removing Events:
+
 Edit The events.txt File To Add Or Remove Events
