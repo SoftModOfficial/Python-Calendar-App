@@ -2,10 +2,10 @@
 This Is A Calendar App Made In Python
 
 You Will Need:
-- [Python 3.10.x Or 3.11.x (Recommended) (These Versions Were Used To Write This)](https://www.python.org/downloads/)
+- [Python 3.10 Or 3.11 (Recommended) (These Versions Were Used To Write This)](https://www.python.org/downloads/)
 
 This May Work With:
-- [Python 2.7.x-3.9.x (Not Recommended) (Was **Not** Tested In This Version)](https://www.python.org/downloads/)
+- [Python 2.7-3.9 (Not Recommended) (Was **Not** Tested In This Version)](https://www.python.org/downloads/)
 
 Adding Or Removing Events:
 
